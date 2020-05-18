@@ -1,0 +1,22 @@
+{
+  "name": "json-mocker-tool",
+  "version": "1.0.0",
+  "description": "前端简易的mock数据工具",
+  "main": "lib/index.js",
+  "author": "tugenhua",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "前端简易的mock数据工具"
+  ],
+  "repository": "https://github.com/tugenhua0707/json-mocker-tool",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^4.0.0",
+    "chokidar": "^3.4.0",
+    "fs": "0.0.1-security",
+    "url": "^0.11.0"
+  }
+}
